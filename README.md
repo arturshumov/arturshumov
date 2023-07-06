@@ -25,7 +25,7 @@
 Я начинающий Front-End Developer. Свой путь я начал год назад. Я пробовал себя во многих направлениях, но нашел себя в веб разработке! Было пройдено много общедоступных курсов по HTML, CSS, JS, SCSS и многому другому. В настоящий момент активное обучение завершено, дни практики позади и я нахожусь в поисках работы.
 
 
-📫 Связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-blue?style=flat&logo=Gmail&logoColor=white)](mailto:shumov.artur96@gmail.com)   [
+📫 Связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-blue?style=flat&logo=Gmail&logoColor=red)](mailto:shumov.artur96@gmail.com)   [
 ![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/artur_shumov)
 
 ---
